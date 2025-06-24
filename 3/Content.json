@@ -1,0 +1,20 @@
+{
+  "ebooks": [
+    {
+      "titre": "La Sagesse intérieure",
+      "auteur": "Jean Dupont",
+      "prix": "5.99",
+      "description": "Un guide spirituel pour découvrir la paix intérieure.",
+      "image": "img/ebook1.jpg",
+      "fichier": "ebooks/sagesse.pdf"
+    },
+    {
+      "titre": "Éveil de l’esprit",
+      "auteur": "Marie Curie",
+      "prix": "7.99",
+      "description": "Une lecture pour réveiller votre potentiel caché.",
+      "image": "img/ebook2.jpg",
+      "fichier": "ebooks/eveil.pdf"
+    }
+  ]
+}
